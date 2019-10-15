@@ -3,7 +3,7 @@ library(vars)
 library(tseries)
 library(ggplot2)
 library(ggthemes)
-setwd('D:/R')
+# setwd('D:/R')
 
 # 读取数据
 quartmac <- readxl::read_xlsx('宏观数据new（季度）.xlsx')
